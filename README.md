@@ -94,3 +94,21 @@ Expand Projects with more cards or a dynamic filter
 Add a small “Learning outcomes” or “Design decisions” subsection to showcase your BA thinking
 Accessibility & SEO
 Semantic HTML: header, nav, section, and footer for clear landmark
+
+# Responsiveness Testing and Iteration Across Devices
+
+Testing with Desktop
+![alt text](<Destop test 1.png>)
+![alt text](<Desktop 2.png>)
+![alt text](<Desktop test 3.png>)
+![alt text](<Desktop test 4.png>)
+
+Testing with IPad(Tablet)
+![alt text](<Ipad air(tablet test).png>)
+![alt text](<Ipad air (tablet test2).png>)
+
+Tesing with IPhone (Mobile)
+![alt text](<Iphone 17 (mobile test 1).png>)
+![alt text](<Iphone 17 (mobile test 2).png>)
+![alt text](<Iphone 17 (mobile test 3).png>)
+![alt text](<Iphone 17 (mobile test 4).png>)
