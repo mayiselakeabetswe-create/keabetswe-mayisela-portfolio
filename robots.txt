@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mayiselakeabetswe-create.github.io/keabetswe-mayisela-portfolio/sitemap.xml

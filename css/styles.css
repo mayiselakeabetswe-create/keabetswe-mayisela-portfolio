@@ -62,12 +62,16 @@ nav a:focus {
 /* Sections */
 section {
   max-width: 900px;
-  margin: 100px auto 2rem auto; /* top margin to avoid under fixed header */
+  margin: 30px auto;
   background: var(--accent-color);
-  padding: 2rem;
+  padding: 1.5rem;
   border-radius: 5px;
   box-shadow: 0 0 8px rgba(0,0,0,0.1);
-  scroll-margin-top: 80px; /* for smooth scroll offset */
+  scroll-margin-top: 90px;
+}
+
+#home {
+  margin-top: 100px;
 }
 
 /* Home Section */
@@ -263,4 +267,38 @@ footer {
   nav a {
     margin: 0.5rem 1rem 0 0;
   }
+}
+.search-box{
+    width:100%;
+    padding:10px;
+    margin-bottom:20px;
+}
+
+.accordion{
+    width:100%;
+    padding:15px;
+    cursor:pointer;
+    margin-top:10px;
+}
+
+.panel{
+    display:none;
+    padding:15px;
+}
+
+.gallery{
+    display:flex;
+    gap:15px;
+    flex-wrap:wrap;
+}
+
+.gallery img{
+    width:250px;
+    cursor:pointer;
+}
+
+#formMessage{
+    margin:15px 0;
+    font-weight:bold;
+    color:green;
 }
